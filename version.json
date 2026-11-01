@@ -1,8 +1,9 @@
 {
-  "web": 8,
+  "web": 9,
   "minNative": 2,
-  "apkVersionCode": 7,
+  "apkVersionCode": 9,
   "apkUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/ArkMode.apk",
-  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-8.zip",
-  "notes": "Monsoon: real rainy city backdrop"
+  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-9.zip",
+  "notes": "Fixed auto-updates",
+  "bundleSha256": "f2cb58b57c5f1c9f74ea19d2d81d53cd9bfd956fa83efa0c72fbaf3a3299b5d7"
 }

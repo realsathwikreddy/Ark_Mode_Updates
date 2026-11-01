@@ -87,7 +87,9 @@ const SOURCES = [
   ['News: AI classes', () => news('free AI course students OR AI workshop students India OR AI bootcamp free', 'ai')],
   ['News: hackathons Hyderabad', () => news('hackathon Hyderabad', 'hackathon')],
   ['News: funded programs', () => news('"travel grant" OR "fully funded" students hackathon OR summer school OR olympiad', 'hackathon', 10)],
-  ['News: music', () => news('music competition students India OR music scholarship India OR youth music festival Hyderabad', 'music')],
+  ['News: music contests', () => news('music competition India', 'music', 8)],
+  ['News: music Hyderabad', () => news('music festival Hyderabad', 'music', 6)],
+  ['News: music scholarships', () => news('music scholarship students', 'music', 6)],
   ['News: internships', () => news('internship for school students India OR high school internship India', 'internship', 8)],
 ];
 

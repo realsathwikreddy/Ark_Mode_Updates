@@ -1,0 +1,8 @@
+{
+  "web": 7,
+  "minNative": 2,
+  "apkVersionCode": 7,
+  "apkUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/ArkMode.apk",
+  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-7.zip",
+  "notes": "Auto-updates, Radar, Plan with Claude, Monsoon theme"
+}

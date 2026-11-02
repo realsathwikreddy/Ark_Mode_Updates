@@ -1,9 +1,9 @@
 {
-  "web": 11,
-  "minNative": 2,
-  "apkVersionCode": 9,
+  "web": 12,
+  "minNative": 3,
+  "apkVersionCode": 12,
   "apkUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/ArkMode.apk",
-  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-11.zip",
-  "notes": "Tougher bosses",
-  "bundleSha256": "c84182c8df110913eae09a62f021498cb7ed2049910bdb14f0f3f5d2b07fdcb9"
+  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-12.zip",
+  "notes": "Ark, your voice assistant",
+  "bundleSha256": "e9242e2aa9ffb19967af4efc242fdb8a67c5d9eceaef8722543ecd65e0efc6fb"
 }

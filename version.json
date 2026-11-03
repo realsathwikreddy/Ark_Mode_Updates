@@ -1,9 +1,9 @@
 {
-  "web": 13,
+  "web": 14,
   "minNative": 4,
   "apkVersionCode": 13,
   "apkUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/ArkMode.apk",
-  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-13.zip",
-  "notes": "Ark listens in-app, male voice, lock fix",
-  "bundleSha256": "4069bf216afd287cc77ea7ba6c03eefcd5ae0ce46129bd58e617f96442afed07"
+  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-14.zip",
+  "notes": "Better thinking animation",
+  "bundleSha256": "3f4f21040bd2affe236890a27b417bd99b11101f752fd5f4f3be6a7b77dccc3b"
 }

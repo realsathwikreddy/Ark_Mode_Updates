@@ -1,9 +1,9 @@
 {
-  "web": 12,
-  "minNative": 3,
-  "apkVersionCode": 12,
+  "web": 13,
+  "minNative": 4,
+  "apkVersionCode": 13,
   "apkUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/ArkMode.apk",
-  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-12.zip",
-  "notes": "Ark, your voice assistant",
-  "bundleSha256": "e9242e2aa9ffb19967af4efc242fdb8a67c5d9eceaef8722543ecd65e0efc6fb"
+  "bundleUrl": "https://raw.githubusercontent.com/realsathwikreddy/Ark_Mode_Updates/main/bundles/web-13.zip",
+  "notes": "Ark listens in-app, male voice, lock fix",
+  "bundleSha256": "4069bf216afd287cc77ea7ba6c03eefcd5ae0ce46129bd58e617f96442afed07"
 }
